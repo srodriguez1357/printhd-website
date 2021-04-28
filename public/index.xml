@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PrinthD</title>
+    <link>http://example.org/</link>
+    <description>Recent content on PrinthD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Apr 2021 00:23:09 -0400</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New site loading...</title>
+      <link>http://example.org/posts/third/</link>
+      <pubDate>Wed, 28 Apr 2021 00:23:09 -0400</pubDate>
+      
+      <guid>http://example.org/posts/third/</guid>
+      <description>New Blog Soon We&amp;rsquo;re the most successful startup ever and we still use this old and ugly site. Mark the date fellas! We&amp;rsquo;ll be launching a new blog using our own brand new web technology. This invention will allow us to run all kinds of crazy visual effects on your screens. It is so revolutionary it will be showcased on every Morning News show in the country!
+-The new employe</description>
+    </item>
+    
+    <item>
+      <title>New Team Member</title>
+      <link>http://example.org/posts/second/</link>
+      <pubDate>Tue, 27 Apr 2021 23:39:36 -0400</pubDate>
+      
+      <guid>http://example.org/posts/second/</guid>
+      <description>The PrinthD team is growing fast! Today a new member joins the project. After working as our intern for years, without a pay, Ben finally has five years of experience, which makes him perfect for an entry position! He&amp;rsquo;ll be in charge of creating content for this website. You can find him as @handle and see more of his awesome work.</description>
+    </item>
+    
+    <item>
+      <title>Product Anouncement</title>
+      <link>http://example.org/posts/my-first-post/</link>
+      <pubDate>Tue, 27 Apr 2021 22:20:20 -0400</pubDate>
+      
+      <guid>http://example.org/posts/my-first-post/</guid>
+      <description>Product ready for launch We&amp;rsquo;re happy to announce that after thoroughly testing our product, it has finally been approved by the Department of Electronics and Other kinds of Stuff. Therefore our star product will be available in every store in your area by end of next month!</description>
+    </item>
+    
+  </channel>
+</rss>
